@@ -1,0 +1,34 @@
+{
+ "L1-cleaning_business_forms": [
+  [
+   "R04C/L1-cleaning_business_forms/01_cover.jpg.enc",
+   "01_cover.jpg",
+   "image/jpeg"
+  ],
+  [
+   "R04C/L1-cleaning_business_forms/02_all_forms.jpg.enc",
+   "02_all_forms.jpg",
+   "image/jpeg"
+  ],
+  [
+   "R04C/L1-cleaning_business_forms/03_features.jpg.enc",
+   "03_features.jpg",
+   "image/jpeg"
+  ],
+  [
+   "R04C/L1-cleaning_business_forms/04_closeup.jpg.enc",
+   "04_closeup.jpg",
+   "image/jpeg"
+  ],
+  [
+   "R04C/L1-cleaning_business_forms/05_formats.jpg.enc",
+   "05_formats.jpg",
+   "image/jpeg"
+  ],
+  [
+   "R04C/L1-cleaning_business_forms/cleaning_business_forms_pack.zip.enc",
+   "cleaning_business_forms_pack.zip",
+   "application/zip"
+  ]
+ ]
+}
